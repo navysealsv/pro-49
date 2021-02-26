@@ -1,0 +1,13 @@
+.header{
+    background-color: rgb(0, 81, 255);
+    text-align: center;
+    color:"white";
+    font-family: Chalkduster, fantasy;
+   
+}
+.grid{
+    display:flex ;
+    flex-wrap:wrap;
+  justify-content:space-around
+}
+
